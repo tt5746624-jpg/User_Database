@@ -18,5 +18,12 @@
     "skin_image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/4f\/Aamon_%28Soul_Reaper%29.jpg\/revision\/latest?cb=20250411100248",
     "download_url": "lll",
     "aspect_ratio": "16:9"
+  },
+  {
+    "device_id": "8bcb9ae89fd2466d",
+    "skin_name": "lol",
+    "skin_image": "https:\/\/static.wikia.nocookie.net\/mobile-legends\/images\/4\/4f\/Aamon_%28Soul_Reaper%29.jpg\/revision\/latest?cb=20250411100248",
+    "download_url": "lol",
+    "aspect_ratio": "9:16"
   }
 ]
